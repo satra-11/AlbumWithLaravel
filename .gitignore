@@ -1,4 +1,6 @@
 .idea
 .vscode
-./**/.env
-./**/node_modules
+.env
+package-lock.json
+package.json
+node_modules/
